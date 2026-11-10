@@ -1,17 +1,17 @@
-# ðŸ§­ CampusCompass - Smart College Explorer & Freshers' Companion
+# 🧭 CampusCompass - Smart College Explorer & Freshers' Companion
 
 An interactive, responsive web application built for college freshers and campus visitors to explore buildings, food courts, clubs, survival hacks, and get instant answers from an AI peer mentor.
 
-## ðŸš€ Live Local Demo
+## 🚀 Live Local Demo
 The app is running at: **[http://localhost:5173/](http://localhost:5173/)**
 
 ---
 
-## âœ¨ Features Built for Hackathon Judges
+## ✨ Features Built for Hackathon Judges
 
 1. **Dual Audience Persona Switcher**:
-   - ðŸŽ’ **Fresher Mode**: Prioritizes study sanctuaries, affordable meals under â‚¹60, club recruitment alerts, and survival FAQs.
-   - ðŸ›ï¸ **Visitor Mode**: Highlights architectural spots, guest cafeterias, innovation centers, and walking tours.
+   - 🎒 **Fresher Mode**: Prioritizes study sanctuaries, affordable meals under ₹60, club recruitment alerts, and survival FAQs.
+   - 🏛️ **Visitor Mode**: Highlights architectural spots, guest cafeterias, innovation centers, and walking tours.
 
 2. **Campus Spots & Labs Directory**:
    - Filter by *Study & Libraries*, *Labs & Tech*, *Hangouts & Chill*, *Sports & Gym*, and *Admin & Services*.
@@ -20,7 +20,7 @@ The app is running at: **[http://localhost:5173/](http://localhost:5173/)**
 
 3. **Food Radar (Canteens & Eateries)**:
    - Live crowd rush indicators (*Low Rush*, *Moderate*, *Night Rush*).
-   - Budget filters (`â‚¹` < â‚¹60, `â‚¹â‚¹` â‚¹60â€“â‚¹150, `â‚¹â‚¹â‚¹`).
+   - Budget filters (`₹` < ₹60, `₹₹` ₹60–₹150, `₹₹₹`).
    - "Must-Try" signature items with exact prices.
 
 4. **Clubs & Activities Hub**:
@@ -54,14 +54,13 @@ The app is running at: **[http://localhost:5173/](http://localhost:5173/)**
 
 ---
 
-## ðŸ“œ Project History
+## 📜 Project History
 See **[HISTORY.md](file:///mnt/c/Users/PRAGNITHA/Desktop/campus-compass/HISTORY.md)** for detailed version history and changelogs.
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 - **Frontend Framework**: React 19 + Vite 8
 - **Styling**: Tailwind CSS v4
 - **Icons**: Lucide React
 - **Fonts**: Plus Jakarta Sans
-

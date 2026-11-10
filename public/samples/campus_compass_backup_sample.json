@@ -1,0 +1,63 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-11-09T20:00:00.000Z",
+  "campusInfo": {
+    "name": "MIT World Peace University",
+    "shortName": "MIT-WPU",
+    "motto": "Transforming the World with Peace & Innovation",
+    "campusArea": "100 Acres",
+    "studentCount": "10,000+",
+    "emergencyContact": "+91 91234 56789",
+    "wifiSsid": "MITWPU-SecureStudent"
+  },
+  "spots": [
+    {
+      "id": "sample-spot-1",
+      "name": "Swami Vivekananda Library",
+      "category": "library",
+      "location": "Knowledge Hub, Building 4",
+      "zone": "Central Hub",
+      "timings": "7:30 AM - 11:30 PM",
+      "description": "State-of-the-art multi-tier library with digital repository, high-speed workstations, and dedicated silent research zones.",
+      "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+      "amenities": ["High-speed Wi-Fi", "Air Conditioned", "Charging Ports", "Quiet Zone"],
+      "seniorTip": "Floor 4 has soundproof pods ideal for team prep before symposiums.",
+      "rating": 4.9,
+      "reviewsCount": 210,
+      "visitorFriendly": true,
+      "coordinates": { "x": 52, "y": 42 }
+    },
+    {
+      "id": "sample-spot-2",
+      "name": "Quantum AI & Robotics Foundry",
+      "category": "academic",
+      "location": "Engineering Block C, Floor 1",
+      "zone": "North Tech Zone",
+      "timings": "8:00 AM - 9:00 PM",
+      "description": "Hardware testing benches, NVIDIA GPU clusters, and drone testing cages for student researchers.",
+      "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Ethernet & Wi-Fi", "Dual Monitor Workstations", "3D Printers"],
+      "seniorTip": "Lab assistants conduct weekly hands-on ROS and PyTorch workshops on Saturday mornings.",
+      "rating": 4.8,
+      "reviewsCount": 165,
+      "visitorFriendly": true,
+      "coordinates": { "x": 32, "y": 24 }
+    },
+    {
+      "id": "sample-spot-3",
+      "name": "Open Sky Amphitheater",
+      "category": "hangout",
+      "location": "Near Central Lawn",
+      "zone": "Central Hub",
+      "timings": "Open 24/7",
+      "description": "Tiered open-air auditorium for musical jams, street plays, and relaxing between lectures.",
+      "image": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=800&q=80",
+      "amenities": ["Open Air Seating", "Stage & Sound", "Vending Machines"],
+      "seniorTip": "Sunset hours between 5:30 PM and 7:00 PM are the best for relaxing with friends.",
+      "rating": 4.9,
+      "reviewsCount": 380,
+      "visitorFriendly": true,
+      "coordinates": { "x": 56, "y": 66 }
+    }
+  ]
+}
