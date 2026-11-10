@@ -3,8 +3,7 @@
 An interactive, responsive web application built for college freshers and campus visitors to explore buildings, food courts, clubs, survival hacks, and get instant answers from an AI peer mentor.
 
 ## 🚀 Live Local Demo
-The app is running at: **[http://localhost:5173/](http://localhost:5173/)**
-
+The app is running at: **https://campus-compass-fresherssss.vercel.app/
 ---
 
 ## ✨ Features Built for Hackathon Judges
